@@ -968,7 +968,7 @@
 
 
 
-import React from "react";
+import React, * as react from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import {
   Mic,
