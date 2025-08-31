@@ -968,7 +968,7 @@
 
 
 
-import React., { useState, useEffect, useRef, useMemo, useCallback } from "React.";
+import React, { useState, useEffect, useRef, useMemo, useCallback } from "React.";
 import { motion, AnimatePresence } from "framer-motion";
 import {
   Mic,
